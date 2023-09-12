@@ -1,6 +1,14 @@
 jakis nowy tekst
+<<<<<<< HEAD
 
 dodany napis z maina
 tekst dodany w poziomu lokalnego
 jakis nowy nic nie znaczacy tekst
 
+=======
+xyz
+
+tekst dodany w poziomu githuba
+jakis nowy nic nie znaczacy tekst
+jeszcze 1 linijka tekstu z gita
+>>>>>>> a131a02 (update pliku do testow z poziomu githuba)
