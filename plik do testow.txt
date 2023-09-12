@@ -1,4 +1,6 @@
 jakis nowy tekst
+
 dodany napis z maina
+tekst dodany w poziomu lokalnego
 jakis nowy nic nie znaczacy tekst
 
