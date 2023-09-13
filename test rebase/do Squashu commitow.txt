@@ -1,3 +1,5 @@
 1 tekst do squashu commitów
 
 2 tekst do squashu commitow
+
+3 tekst do testu fetcha
